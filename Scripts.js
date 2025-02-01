@@ -3,8 +3,8 @@ const themeIcon = document.getElementById('themeIcon');
 const body = document.body;
 
 // Image paths for theme icons
-const sunImage = 'Images/L.png'; // Replace with your sun icon path
-const moonImage = 'Images/D.png'; // Replace with your moon icon path
+const sunImage = 'Images/LightMode.png'; // Replace with your sun icon path
+const moonImage = 'Images/DarkMode.png'; // Replace with your moon icon path
 
 // Function to set theme
 function setTheme(theme) {
