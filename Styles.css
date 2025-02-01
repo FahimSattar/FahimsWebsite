@@ -416,4 +416,9 @@ body[data-theme="dark"] .social-icon-container .light-mode-email {
   .tile-description {
       font-size: 0.8rem;
   }
+  footer {
+    padding-top: 1.5rem; 
+    padding-bottom: 1.5rem; 
+    margin-top: 1rem;  
+  }
 
